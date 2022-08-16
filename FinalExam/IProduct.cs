@@ -4,7 +4,9 @@ using System.Text;
 
 namespace FinalExam
 {
-    class IPhone12
+    interface IProduct
     {
+        public string Name { get; }
+        public double Price { get; set; }
     }
 }
