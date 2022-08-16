@@ -1,0 +1,7 @@
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.csproj.AssemblyReference.cache
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.Form1.resources
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.csproj.GenerateResource.cache
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfoInputs.cache
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfo.cs
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.csproj.CoreCompileInputs.cache
