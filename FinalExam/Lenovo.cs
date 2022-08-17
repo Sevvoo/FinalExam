@@ -6,7 +6,7 @@ namespace FinalExam
 {
     class Lenovo : IProduct, ILaptop
     {
-        public string Name { get; }
+        public string Name { get { return this.Laptop_Model + " - " + this.Laptop_Brand; } }
 
         public double Price { get; set; }
         public string Laptop_Model { get; set; }

@@ -4,9 +4,9 @@ using System.Text;
 
 namespace FinalExam
 {
-    class ASUS
+    class ASUS : IProduct, ILaptop
     {
-        public string Name { get; }
+        public string Name { get { return this.Laptop_Model + " - " + this.Laptop_Brand; } }
         public double Price { get ; set ; }
         public string Laptop_Model { get; set; }
         public string Laptop_Brand { get ; set ; }
