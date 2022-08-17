@@ -1,9 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
 namespace FinalExam
 {
-	public class Samsung : IProduct, IPhone
-	{
-		public string Name { get { return this.Phone_Model + " - " + this.Phone_Brand;} }
+    class Huawei : IProduct, IPhone
+    {
+        public string Name { get { return this.Phone_Model + " - " + this.Phone_Brand; } }
 
         public double Price { get; set; }
 
@@ -12,4 +15,3 @@ namespace FinalExam
         public double Phone_Size { get; set; }
     }
 }
-

@@ -5,3 +5,12 @@ D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.GeneratedMSBui
 D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfoInputs.cache
 D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.AssemblyInfo.cs
 D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.csproj.CoreCompileInputs.cache
+D:\SelfWork\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.exe
+D:\SelfWork\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.deps.json
+D:\SelfWork\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.runtimeconfig.json
+D:\SelfWork\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.runtimeconfig.dev.json
+D:\SelfWork\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.dll
+D:\SelfWork\FinalExam\FinalExam\bin\Debug\netcoreapp3.1\FinalExam.pdb
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.dll
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.pdb
+D:\SelfWork\FinalExam\FinalExam\obj\Debug\netcoreapp3.1\FinalExam.genruntimeconfig.cache
